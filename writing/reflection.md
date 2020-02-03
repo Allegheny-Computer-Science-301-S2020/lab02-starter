@@ -31,4 +31,4 @@
 
 3. How did you decide to plot the $x$ and $y$ axes points that you chose?`TODO`
 
-4. If you enhanced the view by adding size and color aggregates to your plotting code, how did these additions help you to see something that was previously ``invisible?''? `TODO`
+4. If you enhanced the view by adding size and color aggregates to your plotting code, how did these additions help you to see something that was previously "invisible"? `TODO`
